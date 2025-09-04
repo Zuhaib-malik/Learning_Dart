@@ -13,7 +13,7 @@ Welcome to my Dart learning repository! This is where I practice and document my
 ## 🛠 Tools
 
 - Dart SDK
-- VS Code / IntelliJ
+- VS Code
 - Command-line tools
 
 ## 🧠 Progress
