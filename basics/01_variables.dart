@@ -24,4 +24,9 @@ void main() {
 
   print(e);
   print(f);
+
+  String name; // Variable declaration and it is not-nullable
+  String? last; // Nullable variable declaration
+
+  
 }
